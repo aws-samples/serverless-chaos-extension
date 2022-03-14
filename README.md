@@ -20,9 +20,9 @@ sam deploy --guided
 
 Browse the API Gateway URL or curl it from command line for couple of times. 
 
-The normal results are status 200, {"message": "hello world"}. 
-50% of the responses are status 500, {"message": "hello, Chaos!!!"}
-10% of the responses are status 502, {"message": "Internal server error"}. 
+- The normal results are status 200, {"message": "hello world"}. 
+- 50% of the responses are status 500, {"message": "hello, Chaos!!!"}
+- 10% of the responses are status 502, {"message": "Internal server error"}. 
 
 
 
