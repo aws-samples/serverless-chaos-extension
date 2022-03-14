@@ -2,7 +2,7 @@
 
 Using `lambda-chaos-extension` to inject chaos to Lambda functions without any modification to function code.
 
-This demo inject two chaos actions: 
+This demo inject two faults: 
 
 1. Add 5 minutes delay to 10% of function invokes, causing the function to timeout.
 2. Replace function response for 50% of invokes. 
