@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "lambda-chaos-test"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-1se21jga3zzap"
+s3_prefix = "lambda-chaos-test"
+region = "us-west-2"
+capabilities = "CAPABILITY_IAM"
+image_repositories = []

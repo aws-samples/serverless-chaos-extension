@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec /opt/lambda_chaos_extension/extension.py
