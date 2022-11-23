@@ -1,6 +1,6 @@
 # lambda-chaos-extension
 
-Using `lambda-chaos-extension` to inject chaos to Lambda functions without any modification to function code.
+Using `lambda-chaos-extension` to inject faults to Lambda functions without any modification to function code.
 
 This demo inject two faults: 
 
