@@ -6,9 +6,9 @@ Flask==2.3.2
 idna==3.4
 importlib-metadata==6.6.0
 itsdangerous==2.1.2
-Jinja2==3.1.2
+Jinja2==3.1.4
 MarkupSafe==2.1.2
-requests==2.31.0
-urllib3==1.26.15
-Werkzeug==2.3.3
+requests==2.32.2
+urllib3==1.26.19
+Werkzeug==3.0.3
 zipp==3.19.1
